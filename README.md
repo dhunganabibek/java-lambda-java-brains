@@ -9,3 +9,5 @@
 4. Method References.
 5. Collection Framework Improvements.
 ```
+
+a. lambda Expression -- nameless functions.
